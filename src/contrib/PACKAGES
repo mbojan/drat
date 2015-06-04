@@ -1,0 +1,7 @@
+Package: alluvial
+Version: 0.1-0
+Suggests: devtools, testthat, reshape2
+License: GPL-3
+MD5sum: d7ff9be69b80c635d3e638f1e82ca6d5
+NeedsCompilation: no
+
