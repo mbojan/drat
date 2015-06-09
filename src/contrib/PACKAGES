@@ -1,3 +1,11 @@
+Package: akademiaanalityka
+Version: 0.1
+Depends: R (>= 3.2.0)
+Suggests: devtools, testthat
+License: GPL-2
+MD5sum: 6ba22569f70f8cd64273e2c83f355471
+NeedsCompilation: no
+
 Package: alluvial
 Version: 0.1-0
 Suggests: devtools, testthat, reshape2
