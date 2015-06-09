@@ -1,9 +1,9 @@
 Package: akademiaanalityka
-Version: 0.1
+Version: 1.0
 Depends: R (>= 3.2.0)
 Suggests: devtools, testthat
 License: GPL-2
-MD5sum: c67d1998288d6342afb46730283f63a0
+MD5sum: 350082148f04819e4a671a6ea625f584
 NeedsCompilation: no
 
 Package: alluvial
