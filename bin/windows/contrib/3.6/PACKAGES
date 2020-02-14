@@ -1,0 +1,6 @@
+Package: netflow
+Version: 0.0-1
+Depends: R (>= 3.5)
+Imports: igraph, magrittr, dplyr, rlang, tibble
+Suggests: testthat, DBI, igraphdata, RSQLite, dbplyr
+License: MIT + file LICENSE
