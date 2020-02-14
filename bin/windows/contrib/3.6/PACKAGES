@@ -4,3 +4,7 @@ Depends: R (>= 3.5)
 Imports: igraph, magrittr, dplyr, rlang, tibble
 Suggests: testthat, DBI, igraphdata, RSQLite, dbplyr
 License: MIT + file LICENSE
+
+Package: travispkg
+Version: 1.0-0
+License: GPL-2
