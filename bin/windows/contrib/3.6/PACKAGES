@@ -14,4 +14,5 @@ Archs: i386, x64
 
 Package: travispkg
 Version: 1.0-0
+Suggests: testthat (>= 2.1.0)
 License: GPL-2
