@@ -17,5 +17,5 @@ Package: travispkg
 Version: 1.0-0
 Suggests: testthat (>= 2.1.0)
 License: GPL-2
-MD5sum: 8f67a484e93a8d333b084ea209f010c6
+MD5sum: 658a12670100e67e42d2e5fbda74f857
 NeedsCompilation: no
