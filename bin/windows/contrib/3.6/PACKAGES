@@ -5,6 +5,13 @@ Imports: igraph, magrittr, dplyr, rlang, tibble
 Suggests: testthat, DBI, igraphdata, RSQLite, dbplyr
 License: MIT + file LICENSE
 
+Package: rgraph6
+Version: 2.0-0
+Depends: R (>= 2.2.1)
+Suggests: testthat, knitr, rmarkdown, igraph, network
+License: MIT + file LICENSE
+Archs: i386, x64
+
 Package: travispkg
 Version: 1.0-0
 License: GPL-2
